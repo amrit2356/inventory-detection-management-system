@@ -1,1 +1,1 @@
-# Inventory Detection & Management System using YOLO Algorithm.
+# Inventory Detection & Management System using YOLO.
